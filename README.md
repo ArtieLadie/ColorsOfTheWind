@@ -2,7 +2,7 @@
 
 Awesome code I like to modify
 
-### Julia Set
+### [Julia Set](https://github.com/ArtieLadie/ColorsOfTheWind/tree/master/JuliaSet)
 
 Based on [Playing With Julia (Set)](https://fronkonstin.com/2016/05/17/playing-with-julia-set/)
 
