@@ -2,9 +2,9 @@
 
 Awesome code I like to modify
 
-### Julia Sets
+### Julia Set
 
-Based on [Playing With Julia Sets](https://fronkonstin.com/2016/05/17/playing-with-julia-set/)
+Based on [Playing With Julia (Set)](https://fronkonstin.com/2016/05/17/playing-with-julia-set/)
 
 Requires [ImageMagick](https://www.imagemagick.org/script/download.php)
 
