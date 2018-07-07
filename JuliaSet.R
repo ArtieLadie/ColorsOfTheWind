@@ -1,6 +1,9 @@
 library(ggplot2)
 library(dplyr)
-library(RColorBrewer)
+library(RanglaPunjab)
+
+# From https://fronkonstin.com/2016/05/17/playing-with-julia-set/
+
 setwd("C:/JuliaSet")
 dir.create("output")
 setwd("output")
@@ -28,10 +31,10 @@ for (i in 1:35)
     geom_tile() + 
     scale_x_continuous(expand=c(0,0))+
     scale_y_continuous(expand=c(0,0))+
-    scale_colour_gradientn(colours=brewer.pal(8, "Paired")) + opt
+    scale_colour_gradientn(colours=RanglaPunjab("Paranda"))+ opt
   ggsave(plot=p, file=paste0("plot", stringr::str_pad(i, 4, pad = "0"),".png"), width = 1.2, height = 1.2)
 }
 # Place the exact path where ImageMagick is installed
-system('"C:\\Program Files\\ImageMagick-7.0.8-Q16\\convert.exe" -delay 20 -loop 0 *.png julia.gif')
+system('C:\\PROGRA~1\\ImageMagick-7.0.8-Q16\\magick.exe -delay 20 -loop 0 output/*.png ParandaJulia.gif')
 # cleaning up
-#file.remove(list.files(pattern=".png"))
+unlink("output",recursive = TRUE)
