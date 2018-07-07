@@ -2,7 +2,7 @@ library(ggplot2)
 library(dplyr)
 library(RanglaPunjab)
 
-# From https://fronkonstin.com/2016/05/17/playing-with-julia-set/
+# Modified from https://fronkonstin.com/2016/05/17/playing-with-julia-set/
 
 setwd("C:/JuliaSet")
 dir.create("output")
