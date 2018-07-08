@@ -3,6 +3,8 @@ library(numDeriv)
 library(gridExtra)
 library(RanglaPunjab)
 
+# Based on https://fronkonstin.com/2014/03/27/blurry-fractals/
+
 ## Polynom: choose only one or try yourself
 f  <- function (z) {z^3-1}        #Blurry 1
 #f  <- function (z) {z^4+z-1}     #Blurry 2
