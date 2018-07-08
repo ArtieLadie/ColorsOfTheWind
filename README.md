@@ -2,7 +2,7 @@
 
 Awesome code I like to modify
 
-### [Julia Set](https://github.com/ArtieLadie/ColorsOfTheWind/tree/master/JuliaSet)
+### JuliaSet
 
 Based on [Playing With Julia (Set)](https://fronkonstin.com/2016/05/17/playing-with-julia-set/)
 
@@ -12,7 +12,7 @@ See this beauty!
 
 ![Julia Set](https://github.com/ArtieLadie/ColorsOfTheWind/blob/master/JuliaSet/julia.gif)
 
-### [Blurry Fractals](https://github.com/ArtieLadie/ColorsOfTheWind/tree/master/BlurryFractals)
+### BlurryFractals
 
 Based on [Blurry Fractals](https://fronkonstin.com/2014/03/27/blurry-fractals/)
 
