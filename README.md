@@ -19,10 +19,13 @@ Based on [Blurry Fractals](https://fronkonstin.com/2014/03/27/blurry-fractals/)
 Output based on mathematical function
 
 `z^3-1`
+
 ![Blurry 1](https://github.com/ArtieLadie/ColorsOfTheWind/blob/master/BlurryFractals/Blurry1.png)
 
 `z^4+z-1`
+
 ![Blurry 2](https://github.com/ArtieLadie/ColorsOfTheWind/blob/master/BlurryFractals/Blurry2.png)
 
 `z^9+(4*z)+5`
+
 ![Blurry 3](https://github.com/ArtieLadie/ColorsOfTheWind/blob/master/BlurryFractals/Blurry3.png)
