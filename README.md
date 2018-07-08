@@ -3,6 +3,7 @@
 Awesome code I like to modify
 
 [JuliaSet](https://github.com/ArtieLadie/ColorsOfTheWind/blob/master/README.md#juliaset)
+
 [BlurryFractals](https://github.com/ArtieLadie/ColorsOfTheWind/blob/master/README.md#blurryfractals)
 
 ### JuliaSet
