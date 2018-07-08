@@ -2,6 +2,8 @@
 
 Awesome code I like to modify
 
+[JuliaSet](https://github.com/ArtieLadie/ColorsOfTheWind/blob/master/README.md#juliaset)
+
 ### JuliaSet
 
 Based on [Playing With Julia (Set)](https://fronkonstin.com/2016/05/17/playing-with-julia-set/)
