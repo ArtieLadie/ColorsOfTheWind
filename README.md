@@ -32,3 +32,13 @@ Output based on mathematical function
 `z^9+(4*z)+5`
 
 ![Blurry 3](https://github.com/ArtieLadie/ColorsOfTheWind/blob/master/BlurryFractals/Blurry3.png)
+
+### Phyllotaxis
+
+Based on [Phyllotaxis By Shiny](https://fronkonstin.com/2015/12/14/phyllotaxis-by-shiny/)
+
+This code allows user to preview color before applying it to Phyllotaxis
+
+Full demo below
+
+![Create Phyllotaxis](https://github.com/ArtieLadie/ColorsOfTheWind/blob/master/Phyllotaxis/demo_of_phyllotaxis.gif)
