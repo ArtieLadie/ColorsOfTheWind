@@ -4,6 +4,7 @@ Awesome code I like to modify
 
 * [JuliaSet](https://github.com/ArtieLadie/ColorsOfTheWind/blob/master/README.md#juliaset)
 * [BlurryFractals](https://github.com/ArtieLadie/ColorsOfTheWind/blob/master/README.md#blurryfractals)
+* [Phyllotaxis](https://github.com/ArtieLadie/ColorsOfTheWind#phyllotaxis)
 
 ### JuliaSet
 
@@ -39,6 +40,6 @@ Based on [Phyllotaxis By Shiny](https://fronkonstin.com/2015/12/14/phyllotaxis-b
 
 This code allows user to preview color before applying it to Phyllotaxis
 
-Full demo below
+Full demo below (2 minutes)
 
 ![Create Phyllotaxis](https://github.com/ArtieLadie/ColorsOfTheWind/blob/master/Phyllotaxis/demo_of_phyllotaxis.gif)
